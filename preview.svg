@@ -19,7 +19,7 @@
   <rect x="252" y="8" width="64" height="28" rx="7" fill="#ffffff" stroke="#00000017"/>
   <text x="264" y="27" font-size="13" fill="#1b1b1e">1  ×</text>
   <!-- pane: kanso -->
-  <rect x="252" y="46" width="696" height="452" rx="10" fill="#f4f1eb" stroke="#1f62d0"/>
+  <rect x="252" y="46" width="696" height="452" rx="10" fill="#f4f1eb" stroke="#6e6a62"/>
   <text x="268" y="70" font-size="13" fill="#1b1b1e">Claude Code <tspan fill="#969698">~/src/api</tspan></text>
   <rect x="253" y="80" width="694" height="1" fill="#00000017"/>
   <g font-family="JetBrains Mono, Menlo, monospace" font-size="13">
