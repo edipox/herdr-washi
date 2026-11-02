@@ -2,9 +2,17 @@
 
 A light theme for the [Herdr](https://herdr.dev) desktop app. The sidebar, tab bar and status bar use Herdr's built-in `paper` colors. The terminals and their pane headers use the warm cream and muted colors from [Kanso Day](https://github.com/jlopezlira/herdr-kanso), which is easier on the eyes than paper's white.
 
-![Paper Kanso](preview.svg)
+![Paper Kanso](preview.png)
 
 ## Install
+
+Ask your agent in Herdr:
+
+```
+Add the Herdr theme from github.com/edipox/herdr-paper-kanso
+```
+
+Or by hand:
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/edipox/herdr-paper-kanso/main/themes/paper-kanso.json \
