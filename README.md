@@ -1,25 +1,25 @@
-# Paper Kanso
+# Washi
 
-A light theme for the [Herdr](https://herdr.dev) desktop app. The sidebar, tab bar and status bar use Herdr's built-in `paper` colors. The terminals and their pane headers use the warm cream and muted colors from [Kanso Day](https://github.com/jlopezlira/herdr-kanso), which is easier on the eyes than paper's white.
+A light theme for the [Herdr](https://herdr.dev) desktop app, named after the warm Japanese paper. The sidebar, tab bar and status bar use Herdr's built-in `paper` colors. The terminals and their pane headers use the warm cream and muted colors from [Kanso Day](https://github.com/jlopezlira/herdr-kanso), which is easier on the eyes than paper's white.
 
-![Paper Kanso](preview.png)
+![Washi](preview.png)
 
 ## Install
 
 Ask your agent in Herdr:
 
 ```
-Add the Herdr theme from github.com/edipox/herdr-paper-kanso
+Add the Herdr theme from github.com/edipox/herdr-washi
 ```
 
 Or by hand:
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/edipox/herdr-paper-kanso/main/themes/paper-kanso.json \
-  -o ~/.config/herdr-app/themes/paper-kanso.json
+curl -fsSL https://raw.githubusercontent.com/edipox/herdr-washi/main/themes/washi.json \
+  -o ~/.config/herdr-app/themes/washi.json
 ```
 
-Then pick `paper-kanso` in Settings, or run `herdr-app do app.theme --name paper-kanso`. To follow the system appearance, set `"theme": {"light": "paper-kanso", "dark": "graphite"}` in `~/.config/herdr-app/settings.json`.
+Then pick `washi` in Settings, or run `herdr-app do app.theme --name washi`. To follow the system appearance, set `"theme": {"light": "washi", "dark": "graphite"}` in `~/.config/herdr-app/settings.json`.
 
 ## How it's built
 
