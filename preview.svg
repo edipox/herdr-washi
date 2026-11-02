@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" font-family="Geist, -apple-system, Helvetica, sans-serif">
-  <rect width="960" height="540" fill="#fafaf9"/>
+  <rect width="960" height="540" fill="#f4f1eb"/>
   <!-- sidebar: paper chrome -->
   <rect width="240" height="540" fill="#f1f1ee"/>
   <rect x="240" width="1" height="540" fill="#00000017"/>
@@ -46,6 +46,6 @@
     <rect x="512" y="462" width="40" height="22" fill="#74908c"/><rect x="552" y="462" width="40" height="22" fill="#3c3934"/>
   </g>
   <!-- status bar -->
-  <rect x="241" y="512" width="719" height="28" fill="#fafaf9"/>
+  <rect x="241" y="512" width="719" height="28" fill="#f1f1ee"/>
   <text x="256" y="530" font-size="12" fill="#69696b">This computer   main   2 agents</text>
 </svg>

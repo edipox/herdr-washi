@@ -15,7 +15,7 @@ Then pick `paper-kanso` in Settings, or run `herdr-app do app.theme --name paper
 
 ## How it's built
 
-The top-level `background`, `foreground`, `selection`, `cursor` and `ansi` values are Kanso Day's, so the terminals get them. Herdr would derive the panel colors from those too, so `colors` pins each one back to paper's value. `background` is the one color left unpinned, because the pane frame and the pane header both draw with it.
+The top-level `background`, `foreground`, `selection`, `cursor` and `ansi` values are Kanso Day's, so the terminals get them. Herdr would derive the panel colors from those too, so `colors` pins each one back to paper's value. `background` stays Kanso's because the pane frame and the pane header both draw with it. `canvas`, the gutter around the panes, is set to the same cream: Herdr doesn't clip pane content to the frame's rounded corners, so a different gutter color shows a square of terminal color at each corner.
 
 ## Credits
 
